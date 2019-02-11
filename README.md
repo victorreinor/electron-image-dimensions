@@ -23,7 +23,9 @@ de:
     "teste":  // bla bla bla
   },```
   
+  
 para:  
+
 ```javascript
 "scripts": { 
     "start": "electron ."
