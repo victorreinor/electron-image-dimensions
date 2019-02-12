@@ -3,7 +3,7 @@ Software nativo desenvolvido em javascript para descobrir dimensões das imagens
 
 -----
 
-Neste repositório foi utilizado o nodejs e a dependencia electron.
+Neste repositório foi utilizado o nodejs e a dependencia electron para buildar um código javascript para desktop.
 
 **Passo a passo:**
 
@@ -29,3 +29,6 @@ para:
 "scripts": { 
     "start": "electron ."
   }```
+  
+---
+Repositório de estudos.
