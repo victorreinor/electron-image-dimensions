@@ -24,7 +24,7 @@ de:
 }
 ```
 
-// para:
+para:
 
 ```javascript
 "scripts": { 
@@ -33,4 +33,4 @@ de:
 ```
   
 ---
-Repositório de estudos.
+**Repositório de estudos**.
