@@ -25,10 +25,10 @@ de:
 
 para:
 
-```javascript
 "scripts": { 
     "start": "electron ."
-}```
+}
+```
   
 ---
 Repositório de estudos.
