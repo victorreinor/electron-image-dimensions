@@ -1,4 +1,4 @@
-### electron-image-dimensions
+# electron-image-dimensions
 Software nativo desenvolvido em javascript para descobrir dimensões das imagens escolhidas.
 
 -----
