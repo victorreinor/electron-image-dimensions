@@ -20,15 +20,15 @@ Neste repositório foi utilizado o nodejs e a dependencia electron para buildar 
 de: 
 ```javascript
 "scripts": {
-    "teste":  // bla bla bla
-  }```
+    "test":  // bla bla bla
+}
 
 para:
 
 ```javascript
 "scripts": { 
     "start": "electron ."
-  }```
+}```
   
 ---
 Repositório de estudos.
