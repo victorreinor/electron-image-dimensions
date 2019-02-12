@@ -22,9 +22,11 @@ de:
 "scripts": {
     "test":  // bla bla bla
 }
+```
 
-para:
+// para:
 
+```javascript
 "scripts": { 
     "start": "electron ."
 }
